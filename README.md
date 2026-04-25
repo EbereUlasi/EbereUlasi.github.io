@@ -12,7 +12,7 @@
 
 **Dashboard Overview:**
 
-![HR.png](HR)
+![HR_employee.png](HR_employee)
 
 ## Project 2 
 **Title:** Pizza sales
