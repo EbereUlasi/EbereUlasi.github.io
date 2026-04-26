@@ -14,6 +14,8 @@
 
 ![HR_employee.png](HR_employee)
 
+![HR Dashboard](HR_employee.png)
+
 ## Project 2 
 **Title:** Pizza sales
 
