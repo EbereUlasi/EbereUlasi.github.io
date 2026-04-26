@@ -4,15 +4,13 @@
 **Title:** [HR Performance Analysis Dashboard](https://github.com/EbereUlasi/EbereUlasi.github.io/raw/refs/heads/main/HR_PBI.pbix)
 
 
-**Tools Used:** Microsoft Excel()
+**Tools Used:** Power BI()
 
 **Project Description:**
 
 **Key findings:**
 
 **Dashboard Overview:**
-
-![HR_employee.png](HR_employee)
 
 ![HR Dashboard](HR_employee.png)
 
